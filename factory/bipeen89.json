@@ -1,0 +1,9 @@
+{
+	"name": "bipeen89",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7bb421fd-9427-446b-ad0c-435ea384e919",
+		"tenantId": "be04fbd5-6b00-412c-a86c-ca105b5cce90"
+	}
+}
